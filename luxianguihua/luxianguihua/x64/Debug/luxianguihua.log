@@ -1,0 +1,9 @@
+﻿  GA.cpp
+  luxianguihua.cpp
+d:\vsproject\qt\luxianguihua\luxianguihua\ga.cpp(672): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  d:\vsproject\qt\luxianguihua\luxianguihua\ga.cpp(672): note: 此参数用作缓冲区大小
+d:\vsproject\qt\luxianguihua\luxianguihua\ga.cpp(687): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  d:\vsproject\qt\luxianguihua\luxianguihua\ga.cpp(687): note: 此参数用作缓冲区大小
+d:\vsproject\qt\luxianguihua\luxianguihua\ga.cpp(688): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  d:\vsproject\qt\luxianguihua\luxianguihua\ga.cpp(688): note: 此参数用作缓冲区大小
+  luxianguihua.vcxproj -> D:\vsproject\QT\luxianguihua\x64\Debug\luxianguihua.exe
